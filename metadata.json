@@ -1,0 +1,5 @@
+{
+  "name": "Creative Storyteller AI",
+  "description": "Upload an image and watch as AI analyzes its mood and scene to ghostwrite an opening paragraph for a story. The app can even generate a new prompt to recreate your image and read the story aloud with an expressive voice.",
+  "requestFramePermissions": []
+}
